@@ -1,3 +1,3 @@
 <?php
 
-echo 'I am about.';
+echo 'I am about. This is about page.';
