@@ -1,3 +1,3 @@
 <?php
 
-echo 'Wow! This is a gall';
+echo 'Wow! This is a gallery.';
